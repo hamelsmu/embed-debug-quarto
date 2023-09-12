@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Test"
+  open-graph: true
+  sidebar:
+    contents: 
+      - index.qmd
+      - text: Setup
+        href: 1_setup/index.qmd
+
+format:
+  html:
+    code-copy: true
+    theme: cosmo
+    css: styles.css
+  revealjs: 
+    code-line-numbers: false

@@ -1,0 +1,15 @@
+---
+title: "Setup"
+subtitle: "Setting up your environment"
+footer: "[Hamel Husain](https://hamel.dev)"
+format:
+  revealjs:
+    author:
+      - "Hamel Husain"
+    institute: "Parlance Labs"
+    transition: fade
+    slide-number: true
+    chalkboard: false
+---
+
+Test
