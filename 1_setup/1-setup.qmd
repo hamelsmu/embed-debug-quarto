@@ -6,10 +6,6 @@ format:
   revealjs:
     author:
       - "Hamel Husain"
-    institute: "Parlance Labs"
-    transition: fade
-    slide-number: true
-    chalkboard: false
 ---
 
 Test
